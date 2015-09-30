@@ -1,1 +1,1 @@
-/*This is the new layout for my personal page*/
+/* This is an update for my personal site using a Bootstrap Template */
